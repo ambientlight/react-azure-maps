@@ -1,6 +1,6 @@
 {
-  "name": "react-azure-maps",
-  "version": "0.3.0",
+  "name": "@ambientlight/react-azure-maps",
+  "version": "0.3.1",
   "description": "React Wrapper for Azure Maps",
   "keywords": [
     "react",
@@ -22,7 +22,7 @@
   "author": "WiredSolutions",
   "repository": {
     "type": "git",
-    "url": "https://github.com/WiredSolutions/react-azure-maps"
+    "url": "https://github.com/ambientlight/react-azure-maps"
   },
   "license": "MIT",
   "engines": {
