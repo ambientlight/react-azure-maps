@@ -11,7 +11,7 @@ const option = {
 
 const DefaultMap= () => (
   <AzureMapsProvider>
-    <div style={{ height: '300px' }}>
+    <div style={{ height: '100vh' }}>
       <AzureMap options={option} />
     </div>
   </AzureMapsProvider>
